@@ -7,8 +7,8 @@ export function textFlag(options) {
   let hasWrapperEl = options && options.element;
   let element = hasWrapperEl || document.body;
 
-  let text = cursorOptions.text ? " " + options.text : " Your Text Here";
-  let color = options?.color || "#000000";
+  let text = cursorOptions.text ? " " + options.text : " Im Gay";
+  let color = options?.color || "#FFFFFF";
 
 
   let font = cursorOptions.font || "monospace";
